@@ -10,4 +10,4 @@ dotnet run
 dotnet publish
 bash buildApp.sh
 ```
-Буде создан файл `AvaloniaApp.app` в папке `dist`
+Будет создан файл `AvaloniaApp.app` в папке `dist`
